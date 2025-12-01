@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Better Auth + Drizzle + Next.js App
 
-## Getting Started
+A fully implemented authentication system using Better Auth, Drizzle ORM, and Next.js App Router.
+This project includes user registration, login, session handling, protected routes, and a clean modern folder structure suitable for production-level apps and portfolio usage.
 
-First, run the development server:
+✨ Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+User registration & login using Better Auth
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Secure session handling
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Protected routes
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Full Drizzle integration
 
-## Learn More
+ShadCN UI components
 
-To learn more about Next.js, take a look at the following resources:
+Modern, clean App Router structure
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+📦 Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Next.js
 
-## Deploy on Vercel
+TypeScript
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Better Auth
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Drizzle ORM
+
+![Home ](./public/home.png)
+![Login Page](./public/login.png)
+![SignUp Page](./public/signup.png)
+![Dashboard](./public/logout.png)
